@@ -3,6 +3,7 @@ PROMPT:
 write a telegram bot in python to communicate with ChatGPT using API Key. It can receive two command. The command "start" will greet the user by name and prompt the user for OpenAI API key. the user can then input the API key and if the API key is valid. It will store in a local json file. keep the user's ID and his API key
 
 ANSWER:
+
 Certainly! Here's an updated version of the Telegram bot that can handle two commands - "start" and "apikey":
 
 ```python
